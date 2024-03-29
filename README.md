@@ -9,4 +9,3 @@
 - 📫 How to reach me:
   - Email: b.prathibhayadav@gmail.com
   - LinkedIn: [prathibhayadav-boini](https://www.linkedin.com/in/prathibha-yadav-boini/)
-  - GitHub: [Prathibha-yadav](https://github.com/Prathibha-yadav)
